@@ -107,7 +107,7 @@ kubectl label namespace default istio-injection- istio.io/rev=$REVISION --overwr
 
 ### Deploy application
 ```
-cd istio-1.15.4-asm.2
+cd istio-1.15.5-asm.2
 cat samples/bookinfo/platform/kube/bookinfo.yaml
 ```
 ```
