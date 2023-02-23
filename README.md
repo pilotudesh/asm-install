@@ -103,7 +103,7 @@ kubectl label namespace default istio-injection- istio.io/rev=$REVISION --overwr
 ## Deploy an Istio-enabled multi-service application
 
 ### Architecture
-![Architecture](./arch.jpg)
+![Architecture](./arch.png)
 
 ### Deploy application
 ```
